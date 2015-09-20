@@ -1,2 +1,2 @@
 
-* Planung und Orga für 32c3
+* Planung und Orga fÃ¼r den 32c3

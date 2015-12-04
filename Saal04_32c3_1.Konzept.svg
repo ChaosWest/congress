@@ -22,7 +22,7 @@
    xml:space="preserve"><metadata
      id="metadata10488"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
      id="defs10486"><sodipodi:namedview
        id="namedview39995"
        pagecolor="#ffffff"
@@ -60,9 +60,9 @@
      inkscape:window-height="1010"
      id="namedview10484"
      showgrid="false"
-     inkscape:zoom="2.4106088"
-     inkscape:cx="887.59728"
-     inkscape:cy="1295.775"
+     inkscape:zoom="0.33671439"
+     inkscape:cx="561.91093"
+     inkscape:cy="1091.4294"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -71,7 +71,8 @@
      inkscape:snap-global="true"
      inkscape:snap-text-baseline="false"
      inkscape:object-paths="false"
-     inkscape:object-nodes="true" /><g
+     inkscape:object-nodes="true"
+     inkscape:document-units="cm" /><g
      id="Maßstab"
      inkscape:label="Maßstab"
      inkscape:groupmode="layer"
